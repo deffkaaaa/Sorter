@@ -1,0 +1,7 @@
+_xamarin_timezone_get_local_name
+_xamarin_timezone_get_data
+_xamarin_find_protocol_wrapper_type
+_xamarin_log
+_xamarin_get_block_descriptor
+_xamarin_release_managed_ref
+_xamarin_set_gchandle_with_flags_safe

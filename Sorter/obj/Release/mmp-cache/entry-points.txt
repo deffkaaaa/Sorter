@@ -1,0 +1,14 @@
+Function=xamarin_timezone_get_local_name
+	/Library/Frameworks/Xamarin.Mac.framework/Versions/9.3.0.23/lib/mono/Xamarin.Mac/mscorlib.dll
+Function=xamarin_timezone_get_data
+	/Library/Frameworks/Xamarin.Mac.framework/Versions/9.3.0.23/lib/mono/Xamarin.Mac/mscorlib.dll
+Function=xamarin_find_protocol_wrapper_type
+	/Library/Frameworks/Xamarin.Mac.framework/Versions/9.3.0.23/lib/64bits/mobile/Xamarin.Mac.dll
+Function=xamarin_log
+	/Library/Frameworks/Xamarin.Mac.framework/Versions/9.3.0.23/lib/64bits/mobile/Xamarin.Mac.dll
+Function=xamarin_get_block_descriptor
+	/Library/Frameworks/Xamarin.Mac.framework/Versions/9.3.0.23/lib/64bits/mobile/Xamarin.Mac.dll
+Function=xamarin_release_managed_ref
+	/Library/Frameworks/Xamarin.Mac.framework/Versions/9.3.0.23/lib/64bits/mobile/Xamarin.Mac.dll
+Function=xamarin_set_gchandle_with_flags_safe
+	/Library/Frameworks/Xamarin.Mac.framework/Versions/9.3.0.23/lib/64bits/mobile/Xamarin.Mac.dll

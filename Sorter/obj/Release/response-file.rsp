@@ -1,0 +1,22 @@
+/target-framework:Xamarin.Mac,Version=v2.0,Profile=Mobile
+--http-message-handler=HttpClientHandler
+"--cache=/Users/maria/Projects/Sorter /Sorter/obj/Release/mmp-cache"
+"--root-assembly=/Users/maria/Projects/Sorter /Sorter/bin/Release/Sorter.exe"
+--sdkroot=/Applications/Xcode.app/Contents/Developer
+--targetver=10.14
+-q
+-q
+-q
+-q
+"/output:/Users/maria/Projects/Sorter /Sorter/bin/Release/"
+/name:Sorter
+/abi:x86_64
+/linksdkonly
+/reference:/Library/Frameworks/Xamarin.Mac.framework/Versions/Current/lib/mono/Xamarin.Mac/mscorlib.dll
+"/reference:/Users/maria/Projects/Sorter /packages/SkiaSharp.2.88.8/lib/xamarinmac2.0/SkiaSharp.dll"
+/reference:/Library/Frameworks/Xamarin.Mac.framework/Versions/Current/lib/mono/Xamarin.Mac/System.Core.dll
+/reference:/Library/Frameworks/Xamarin.Mac.framework/Versions/Current/lib/mono/Xamarin.Mac/System.dll
+/reference:/Library/Frameworks/Xamarin.Mac.framework/Versions/Current/lib/mono/Xamarin.Mac/Facades/System.Drawing.Common.dll
+/reference:/Library/Frameworks/Xamarin.Mac.framework/Versions/Current/lib/mono/Xamarin.Mac/Xamarin.Mac.dll
+"/reference:/Users/maria/Projects/Sorter /packages/SkiaSharp.2.88.8/lib/xamarinmac2.0/SkiaSharp.dll"
+"/native-reference:/Users/maria/Projects/Sorter /packages/SkiaSharp.NativeAssets.macOS.2.88.8/runtimes/osx/native/libSkiaSharp.dylib"

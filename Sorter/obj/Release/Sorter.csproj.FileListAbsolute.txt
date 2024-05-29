@@ -1,0 +1,106 @@
+/Users/maria/Projects/Sorter/Sorter/obj/Release/actool/_PartialAppManifest.items
+/Users/maria/Projects/Sorter/Sorter/obj/Release/actool/_BundleResourceWithLogicalName.items
+/Users/maria/Projects/Sorter/Sorter/obj/Release/actool/_ProcessedImageAssetsPath.items
+/Users/maria/Projects/Sorter/Sorter/obj/Release/ibtool/_BundleResourceWithLogicalName.items
+/Users/maria/Projects/Sorter/Sorter/obj/Release/ibtool/_ProcessedInterfaceDefinitionsPath.items
+/Users/maria/Projects/Sorter/Sorter/obj/Release/coremlc/_PartialAppManifest.items
+/Users/maria/Projects/Sorter/Sorter/obj/Release/coremlc/_BundleResourceWithLogicalName.items
+/Users/maria/Projects/Sorter/Sorter/obj/Release/coremlc/_ProcessedCoreMLModelsPath.items
+/Users/maria/Projects/Sorter/Sorter/obj/Release/_ProcessedBundleResourcesPath.items
+/Users/maria/Projects/Sorter/Sorter/obj/Release/_ProcessedContentPath.items
+/Users/maria/Projects/Sorter/Sorter/obj/Release/Sorter.csproj.CoreCompileInputs.cache
+/Users/maria/Projects/Sorter/Sorter/bin/Release/Sorter.exe
+/Users/maria/Projects/Sorter/Sorter/bin/Release/Sorter.pdb
+/Users/maria/Projects/Sorter/Sorter/bin/Release/SkiaSharp.dll
+/Users/maria/Projects/Sorter/Sorter/bin/Release/SkiaSharp.pdb
+/Users/maria/Projects/Sorter/Sorter/bin/Release/SkiaSharp.xml
+/Users/maria/Projects/Sorter/Sorter/obj/Release/Sorter.csproj.CopyComplete
+/Users/maria/Projects/Sorter/Sorter/obj/Release/Sorter.exe
+/Users/maria/Projects/Sorter/Sorter/obj/Release/Sorter.pdb
+/Users/maria/Projects/Sorter копія/Sorter/bin/Release/Sorter.exe
+/Users/maria/Projects/Sorter копія/Sorter/bin/Release/Sorter.pdb
+/Users/maria/Projects/Sorter копія/Sorter/bin/Release/SkiaSharp.dll
+/Users/maria/Projects/Sorter копія/Sorter/bin/Release/SkiaSharp.pdb
+/Users/maria/Projects/Sorter копія/Sorter/bin/Release/SkiaSharp.xml
+/Users/maria/Projects/Sorter копія/Sorter/obj/Release/actool/_PartialAppManifest.items
+/Users/maria/Projects/Sorter копія/Sorter/obj/Release/actool/_BundleResourceWithLogicalName.items
+/Users/maria/Projects/Sorter копія/Sorter/obj/Release/actool/_ProcessedImageAssetsPath.items
+/Users/maria/Projects/Sorter копія/Sorter/obj/Release/ibtool/_BundleResourceWithLogicalName.items
+/Users/maria/Projects/Sorter копія/Sorter/obj/Release/ibtool/_ProcessedInterfaceDefinitionsPath.items
+/Users/maria/Projects/Sorter копія/Sorter/obj/Release/coremlc/_PartialAppManifest.items
+/Users/maria/Projects/Sorter копія/Sorter/obj/Release/coremlc/_BundleResourceWithLogicalName.items
+/Users/maria/Projects/Sorter копія/Sorter/obj/Release/coremlc/_ProcessedCoreMLModelsPath.items
+/Users/maria/Projects/Sorter копія/Sorter/obj/Release/_ProcessedBundleResourcesPath.items
+/Users/maria/Projects/Sorter копія/Sorter/obj/Release/_ProcessedContentPath.items
+/Users/maria/Projects/Sorter копія/Sorter/obj/Release/Sorter.csproj.AssemblyReference.cache
+/Users/maria/Projects/Sorter копія/Sorter/obj/Release/Sorter.csproj.CoreCompileInputs.cache
+/Users/maria/Projects/Sorter копія/Sorter/obj/Release/Sorter.csproj.CopyComplete
+/Users/maria/Projects/Sorter копія/Sorter/obj/Release/Sorter.exe
+/Users/maria/Projects/Sorter копія/Sorter/obj/Release/Sorter.pdb
+/Users/maria/Projects/Sorter копія 2/Sorter/bin/Release/Sorter.exe
+/Users/maria/Projects/Sorter копія 2/Sorter/bin/Release/Sorter.pdb
+/Users/maria/Projects/Sorter копія 2/Sorter/bin/Release/SkiaSharp.dll
+/Users/maria/Projects/Sorter копія 2/Sorter/bin/Release/SkiaSharp.pdb
+/Users/maria/Projects/Sorter копія 2/Sorter/bin/Release/SkiaSharp.xml
+/Users/maria/Projects/Sorter копія 2/Sorter/obj/Release/actool/_PartialAppManifest.items
+/Users/maria/Projects/Sorter копія 2/Sorter/obj/Release/actool/_BundleResourceWithLogicalName.items
+/Users/maria/Projects/Sorter копія 2/Sorter/obj/Release/actool/_ProcessedImageAssetsPath.items
+/Users/maria/Projects/Sorter копія 2/Sorter/obj/Release/ibtool/_BundleResourceWithLogicalName.items
+/Users/maria/Projects/Sorter копія 2/Sorter/obj/Release/ibtool/_ProcessedInterfaceDefinitionsPath.items
+/Users/maria/Projects/Sorter копія 2/Sorter/obj/Release/coremlc/_PartialAppManifest.items
+/Users/maria/Projects/Sorter копія 2/Sorter/obj/Release/coremlc/_BundleResourceWithLogicalName.items
+/Users/maria/Projects/Sorter копія 2/Sorter/obj/Release/coremlc/_ProcessedCoreMLModelsPath.items
+/Users/maria/Projects/Sorter копія 2/Sorter/obj/Release/_ProcessedBundleResourcesPath.items
+/Users/maria/Projects/Sorter копія 2/Sorter/obj/Release/_ProcessedContentPath.items
+/Users/maria/Projects/Sorter копія 2/Sorter/obj/Release/Sorter.csproj.AssemblyReference.cache
+/Users/maria/Projects/Sorter копія 2/Sorter/obj/Release/Sorter.csproj.CoreCompileInputs.cache
+/Users/maria/Projects/Sorter копія 2/Sorter/obj/Release/Sorter.csproj.CopyComplete
+/Users/maria/Projects/Sorter копія 2/Sorter/obj/Release/Sorter.exe
+/Users/maria/Projects/Sorter копія 2/Sorter/obj/Release/Sorter.pdb
+/Users/maria/Projects/Sorter копія 3/Sorter/bin/Release/Sorter.exe
+/Users/maria/Projects/Sorter копія 3/Sorter/bin/Release/Sorter.pdb
+/Users/maria/Projects/Sorter копія 3/Sorter/bin/Release/SkiaSharp.dll
+/Users/maria/Projects/Sorter копія 3/Sorter/bin/Release/SkiaSharp.pdb
+/Users/maria/Projects/Sorter копія 3/Sorter/bin/Release/SkiaSharp.xml
+/Users/maria/Projects/Sorter копія 3/Sorter/obj/Release/actool/_PartialAppManifest.items
+/Users/maria/Projects/Sorter копія 3/Sorter/obj/Release/actool/_BundleResourceWithLogicalName.items
+/Users/maria/Projects/Sorter копія 3/Sorter/obj/Release/actool/_ProcessedImageAssetsPath.items
+/Users/maria/Projects/Sorter копія 3/Sorter/obj/Release/ibtool/_BundleResourceWithLogicalName.items
+/Users/maria/Projects/Sorter копія 3/Sorter/obj/Release/ibtool/_ProcessedInterfaceDefinitionsPath.items
+/Users/maria/Projects/Sorter копія 3/Sorter/obj/Release/coremlc/_PartialAppManifest.items
+/Users/maria/Projects/Sorter копія 3/Sorter/obj/Release/coremlc/_BundleResourceWithLogicalName.items
+/Users/maria/Projects/Sorter копія 3/Sorter/obj/Release/coremlc/_ProcessedCoreMLModelsPath.items
+/Users/maria/Projects/Sorter копія 3/Sorter/obj/Release/_ProcessedBundleResourcesPath.items
+/Users/maria/Projects/Sorter копія 3/Sorter/obj/Release/_ProcessedContentPath.items
+/Users/maria/Projects/Sorter копія 3/Sorter/obj/Release/Sorter.csproj.AssemblyReference.cache
+/Users/maria/Projects/Sorter копія 3/Sorter/obj/Release/Sorter.csproj.CoreCompileInputs.cache
+/Users/maria/Projects/Sorter копія 3/Sorter/obj/Release/Sorter.csproj.CopyComplete
+/Users/maria/Projects/Sorter копія 3/Sorter/obj/Release/Sorter.exe
+/Users/maria/Projects/Sorter копія 3/Sorter/obj/Release/Sorter.pdb
+/Users/maria/Projects/Sorter/Sorter/obj/Release/Sorter.csproj.AssemblyReference.cache
+/Users/maria/Projects/Sorter /Sorter/bin/Release/Sorter.exe
+/Users/maria/Projects/Sorter /Sorter/bin/Release/Sorter.pdb
+/Users/maria/Projects/Sorter /Sorter/bin/Release/SkiaSharp.dll
+/Users/maria/Projects/Sorter /Sorter/bin/Release/SkiaSharp.pdb
+/Users/maria/Projects/Sorter /Sorter/bin/Release/SkiaSharp.xml
+/Users/maria/Projects/Sorter /Sorter/obj/Release/actool/_PartialAppManifest.items
+/Users/maria/Projects/Sorter /Sorter/obj/Release/actool/_BundleResourceWithLogicalName.items
+/Users/maria/Projects/Sorter /Sorter/obj/Release/actool/_ProcessedImageAssetsPath.items
+/Users/maria/Projects/Sorter /Sorter/obj/Release/ibtool/_BundleResourceWithLogicalName.items
+/Users/maria/Projects/Sorter /Sorter/obj/Release/ibtool/_ProcessedInterfaceDefinitionsPath.items
+/Users/maria/Projects/Sorter /Sorter/obj/Release/coremlc/_PartialAppManifest.items
+/Users/maria/Projects/Sorter /Sorter/obj/Release/coremlc/_BundleResourceWithLogicalName.items
+/Users/maria/Projects/Sorter /Sorter/obj/Release/coremlc/_ProcessedCoreMLModelsPath.items
+/Users/maria/Projects/Sorter /Sorter/obj/Release/_ProcessedBundleResourcesPath.items
+/Users/maria/Projects/Sorter /Sorter/obj/Release/_ProcessedContentPath.items
+/Users/maria/Projects/Sorter /Sorter/obj/Release/Sorter.csproj.AssemblyReference.cache
+/Users/maria/Projects/Sorter /Sorter/obj/Release/resourcestamps/mscorlib.stamp
+/Users/maria/Projects/Sorter /Sorter/obj/Release/resourcestamps/SkiaSharp.stamp
+/Users/maria/Projects/Sorter /Sorter/obj/Release/resourcestamps/System.Core.stamp
+/Users/maria/Projects/Sorter /Sorter/obj/Release/resourcestamps/System.stamp
+/Users/maria/Projects/Sorter /Sorter/obj/Release/resourcestamps/System.Drawing.Common.stamp
+/Users/maria/Projects/Sorter /Sorter/obj/Release/resourcestamps/Xamarin.Mac.stamp
+/Users/maria/Projects/Sorter /Sorter/obj/Release/Sorter.csproj.CoreCompileInputs.cache
+/Users/maria/Projects/Sorter /Sorter/obj/Release/Sorter.csproj.CopyComplete
+/Users/maria/Projects/Sorter /Sorter/obj/Release/Sorter.exe
+/Users/maria/Projects/Sorter /Sorter/obj/Release/Sorter.pdb

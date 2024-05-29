@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>com.apple.actool.compilation-results</key>
+	<dict>
+		<key>output-files</key>
+		<array>
+			<string>/Users/maria/Projects/Sorter/Sorter/obj/Release/actool/bundle/AppIcon.icns</string>
+			<string>/Users/maria/Projects/Sorter/Sorter/obj/Release/actool/bundle/Assets.car</string>
+			<string>/Users/maria/Projects/Sorter/Sorter/obj/Release/actool/partial-info.plist</string>
+		</array>
+	</dict>
+	<key>com.apple.actool.document.warnings</key>
+	<array>
+		<dict>
+			<key>affected-items</key>
+			<array>
+				<string>./AppIcon.appiconset/[][mac][128x128][][][2x][][][]</string>
+			</array>
+			<key>catalog</key>
+			<string>/Users/maria/Projects/Sorter/Sorter/obj/Release/actool/cloned-assets/Assets.xcassets</string>
+			<key>message</key>
+			<string>AppIcon.appiconset/AppIcon-128@2x.png is 128x128 but should be 256x256.</string>
+			<key>type</key>
+			<string>Ambiguous Content</string>
+		</dict>
+		<dict>
+			<key>affected-items</key>
+			<array>
+				<string>./AppIcon.appiconset/[][mac][256x256][][][2x][][][]</string>
+			</array>
+			<key>catalog</key>
+			<string>/Users/maria/Projects/Sorter/Sorter/obj/Release/actool/cloned-assets/Assets.xcassets</string>
+			<key>message</key>
+			<string>AppIcon.appiconset/AppIcon-256@2x.png is 256x256 but should be 512x512.</string>
+			<key>type</key>
+			<string>Ambiguous Content</string>
+		</dict>
+		<dict>
+			<key>affected-items</key>
+			<array>
+				<string>./AppIcon.appiconset/[][mac][512x512][][][2x][][][]</string>
+			</array>
+			<key>catalog</key>
+			<string>/Users/maria/Projects/Sorter/Sorter/obj/Release/actool/cloned-assets/Assets.xcassets</string>
+			<key>message</key>
+			<string>AppIcon.appiconset/AppIcon-512@2x.png is 512x512 but should be 1024x1024.</string>
+			<key>type</key>
+			<string>Ambiguous Content</string>
+		</dict>
+		<dict>
+			<key>affected-items</key>
+			<array>
+				<string>./AppIcon.appiconset/[][mac][128x128][][][2x][][][]</string>
+			</array>
+			<key>catalog</key>
+			<string>/Users/maria/Projects/Sorter/Sorter/obj/Release/actool/cloned-assets/Assets.xcassets</string>
+			<key>message</key>
+			<string>AppIcon.appiconset/AppIcon-128@2x.png is 128x128 but should be 256x256.</string>
+			<key>type</key>
+			<string>Ambiguous Content</string>
+		</dict>
+		<dict>
+			<key>affected-items</key>
+			<array>
+				<string>./AppIcon.appiconset/[][mac][256x256][][][2x][][][]</string>
+			</array>
+			<key>catalog</key>
+			<string>/Users/maria/Projects/Sorter/Sorter/obj/Release/actool/cloned-assets/Assets.xcassets</string>
+			<key>message</key>
+			<string>AppIcon.appiconset/AppIcon-256@2x.png is 256x256 but should be 512x512.</string>
+			<key>type</key>
+			<string>Ambiguous Content</string>
+		</dict>
+		<dict>
+			<key>affected-items</key>
+			<array>
+				<string>./AppIcon.appiconset/[][mac][512x512][][][2x][][][]</string>
+			</array>
+			<key>catalog</key>
+			<string>/Users/maria/Projects/Sorter/Sorter/obj/Release/actool/cloned-assets/Assets.xcassets</string>
+			<key>message</key>
+			<string>AppIcon.appiconset/AppIcon-512@2x.png is 512x512 but should be 1024x1024.</string>
+			<key>type</key>
+			<string>Ambiguous Content</string>
+		</dict>
+	</array>
+</dict>
+</plist>

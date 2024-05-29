@@ -1,0 +1,35 @@
+﻿<Properties StartupConfiguration="{B0A72781-4777-4969-A72F-8185BB84625B}|Default">
+  <MonoDevelop.Ide.ItemProperties.Sorter PreferredExecutionTarget="MyMacID" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Sorter/ViewController.cs">
+    <Files>
+      <File FileName="Sorter/ViewController.cs" Line="183" Column="72" />
+      <File FileName="Sorter/ViewController.designer.cs" />
+      <File FileName="Sorter/Mergesort.cs" />
+      <File FileName="Sorter/Quicksort.cs" />
+      <File FileName="Sorter/Introsort.cs" />
+      <File FileName="Sorter/DrawingView.cs" />
+      <File FileName="Sorter/Main.cs" />
+      <File FileName="Sorter/NSGraph.cs" />
+      <File FileName="Sorter/NSGraphData.cs" />
+      <File FileName="Sorter/AppDelegate.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Sorter" expanded="True">
+            <Node name="Sorter" expanded="True">
+              <Node name="Resources" selected="True" />
+              <Node name="ViewController.cs" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Release" />
+</Properties>
